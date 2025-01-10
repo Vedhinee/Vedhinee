@@ -9,7 +9,7 @@ I am current a student in SRM Institute of Science and Technology with specializ
 - 👯 I’m looking to collaborate on <strong>Full Stack, and Web development projects</strong>
 - 🤔 I’m looking for help with <strong>ML/AL, MERN Stack</strong>
 - 💬 Ask me about <strong>.... nothing</strong>
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vedhineenm) || [Instagram](https://www.instagram.com/shash.007/) || [Kaggle](https://www.kaggle.com/vedhinee)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vedhineenm/) || [Instagram](https://www.instagram.com/vedhinee_/) || [Kaggle](https://www.kaggle.com/vedhinee)
 - 😄 Pronouns: <strong>she/her</strong>
 - ⚡ Fun fact: <strong>I am Music Lover</strong>
 

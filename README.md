@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Vedhinee <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
-<h3 align="center">Student</h3>
 
 
 ## 🚀 About Me
@@ -19,8 +18,6 @@ I am current a student in SRM Institute of Science and Technology with specializ
 - 💬 Ask me about <strong>Random Things</strong>
 
 
-# Hi there, I'm [Your Name] 👋
-
 ## 🛠️ Tools I've Used
 
 <div align="center">
@@ -36,18 +33,16 @@ I am current a student in SRM Institute of Science and Technology with specializ
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' alt='React' width='50' height='50'/>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='Node.js' width='50' height='50'/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt='MongoDb' width='50' height='50'/>
-    <img src='https://camo.githubusercontent.com/f91287c9aac55623bc37ceb651ac35b7efb56e422019a3bb59328328a09edf9f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667' alt='Linux' width='50' height='50/>
+    <img src='https://camo.githubusercontent.com/f91287c9aac55623bc37ceb651ac35b7efb56e422019a3bb59328328a09edf9f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667' alt='Linux' width='50' height='50'/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="SQL" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original-wordmark.svg" alt="PHP" width="50" height="50"/>
-     
 </div>
 
-
-
-
-
 ## 📊 My GitHub Stats
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedhinee&show_icons=true&theme=radical)
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedhinee&layout=compact&theme=radical)
+
 
 ## 💼 Connect with Me
 - [LinkedIn](www.linkedin.com/in/vedhineenm)

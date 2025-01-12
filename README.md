@@ -34,8 +34,8 @@ I am current a student in SRM Institute of Science and Technology with specializ
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='Node.js' width='50' height='50'/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt='MongoDb' width='50' height='50'/>
     <img src='https://camo.githubusercontent.com/f91287c9aac55623bc37ceb651ac35b7efb56e422019a3bb59328328a09edf9f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667' alt='Linux' width='50' height='50'/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="SQL" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original-wordmark.svg" alt="PHP" width="50" height="50"/>
+    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg' alt="SQL" width='50' height='50'/>
+    <img src='https://camo.githubusercontent.com/92a977256f3f2b4ef99e6684c1d88f1ac0394ed909893e5e56cb3539a31f2590/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667' alt="PHP" width='50' height='50'/>
 </div>
 
 ## 📊 My GitHub Stats

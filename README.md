@@ -1,6 +1,6 @@
-# Hi there, I'm [Vedhinee] 👋
+<h1 align="center">Hi there, I'm Vedhinee <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h3 align="center">Student</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vedhinee&color=blue)
 
 ## 🚀 About Me
 I am current a student in SRM Institute of Science and Technology with specialization Big Data Analytics (BDA) pursing B.tech Computer Science. My interests are Full Stack Development and Machine Learning, Artificial Engineering and many more. I am always open to learn new thinds and gain knowledege in that feild. Always seeking for oppurtunities and internships in the feild of Software Development. i am also interested in Mobile Developement and Web Development.
@@ -11,14 +11,6 @@ I am current a student in SRM Institute of Science and Technology with specializ
 </div>
 
 
-
-## 🛠️ Technologies & Tools
-- **Languages**: Python, Java, C, C++, Javascript... 
-- **Frameworks**: React, Node.js, Django, Flask, tkinker...
-- **Databases**: MySQL, MongoDB, firebase, NoSQL...
-- **Tools**: Git, Docker, VS Code, Intellij...
-
-
 ## Something about me
 - 🔭 I’m currently working on <strong>Full Stack/ Web Development</strong>
 - 🌱 I’m currently learning <strong>ML/AI, MERN Stack</strong>
@@ -27,8 +19,19 @@ I am current a student in SRM Institute of Science and Technology with specializ
 - 💬 Ask me about <strong>Random Things</strong>
 
 
-## 🐍 GitHub Contribution Snake
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=Vedhinee)
+## 🛠️ Tools I've Used
+
+<div>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
 
 
 ## 📊 My GitHub Stats

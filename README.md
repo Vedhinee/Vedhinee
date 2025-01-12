@@ -21,16 +21,22 @@ I am current a student in SRM Institute of Science and Technology with specializ
 
 ## 🛠️ Tools I've Used
 
-<div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/python.svg" alt="Python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/c.svg" alt="C" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/cplusplus.svg" alt="C++" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/java.svg" alt="Java" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/react.svg" alt='React' width='50' height='50'/>
+    <img src='https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/nodejs.svg' alt='Node.js' width='50' height='50'/>
+    <img src='https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/flask.svg' alt='Flask' width='50' height='50'/>
+    <img src='https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/html5.svg' alt='HTML5' width='50' height='50'/>
+    <img src='https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/css3.svg' alt='CSS3' width='50' height='50'/>
+    <img src='https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/bootstrap.svg' alt='Bootstrap' width='50' height='50'/>
+    <img src='https://cdn.jsdelivr.net/gh/read-me-icons/read-me-icons@main/icons/tailwindcss.svg' alt='Tailwind CSS' width='50' height='50'/>
+    <img src='https://cdn.jsdelivr.net/github.com/read-me-icons/read-me-icons@main/icons/expressionjs.svg' alt='Express.js' width='50' height='50'/>
 </div>
+
 
 
 

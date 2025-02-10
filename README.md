@@ -5,7 +5,7 @@
 I am currently a student at SRM Institute of Science and Technology with a specialization in Big Data Analytics (BDA) pursuing a B.Tech in Computer Science. My interests are Full Stack Development, Machine Learning, Artificial Intelligence, and many more. I am always open to learning new things and gaining knowledge in that field. I am always seeking opportunities and internships in the field of Software Development. I am also interested in Mobile Development and Web Development.
 
 <div align="center">
-    <img src="[https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF3MWhzN2RvdjNnNDI1dGJwYXpiaWd6aDN2MGxsaGJ3b2ZtdWVidiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NbhiwA0C8THIv8KvG5/giphy.gif)" alt="Pudgy Penguins GIF" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWV2dnEydDUwY3YxZTNwMHFkaXgxc2k3aGQyYTU4dGhvbndzcmhmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y853jRq5TrMHVGn4nl/giphy.gif" alt="Pudgy Penguins GIF" />
 </div>
 
 

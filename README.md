@@ -48,7 +48,5 @@ I am currently a student at SRM Institute of Science and Technology with a speci
 - [Instagram](https://www.instagram.com/vedhinee_/)
 - [Kaggle](https://www.kaggle.com/vedhinee)
 
-## 🌟 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/Vedhinee/count.svg)
 
 

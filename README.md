@@ -3,7 +3,7 @@
 # 🌌 Vedhinee M.
 **Full Stack Developer | Big Data Analytics Specialist | ML Enthusiast**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Transforming+Data+into+Code;Building+Scalable+Web+Apps;SRM+Student+%40+BDA;MERN+Stack+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Transforming+Data+into+Code;Building+Scalable+Web+Apps;Student+%40+SRM+BDA;MERN+Stack+Lover" alt="Typing SVG" />
 
 ---
 

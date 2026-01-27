@@ -1,52 +1,65 @@
-<h1 align="center">Hi there, I'm Vedhinee <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
-
-
-## 🚀 About Me
-I am currently a student at SRM Institute of Science and Technology with a specialization in Big Data Analytics (BDA) pursuing a B.Tech in Computer Science. My interests are Full Stack Development, Machine Learning, Artificial Intelligence, and many more. I am always open to learning new things and gaining knowledge in that field. I am always seeking opportunities and internships in the field of Software Development. I am also interested in Mobile Development and Web Development.
-
 <div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWkxcnF4enI3bjFxOXdjZWJmZTR1c29zOTJsaGs2anE5aTAyamx2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" alt="Pudgy Penguins GIF" />
+
+# 🌌 Vedhinee M.
+**Full Stack Developer | Big Data Analytics Specialist | ML Enthusiast**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Transforming+Data+into+Code;Building+Scalable+Web+Apps;SRM+Student+%40+BDA;MERN+Stack+Lover" alt="Typing SVG" />
+
+---
+
+| 🚀 **Profile Overview** | 📈 **GitHub Insights** |
+| :--- | :--- |
+| 🎓 **Education:** B.Tech CS (Big Data) @ SRM | [![Stats](https://github-readme-stats.vercel.app/api?username=Vedhinee&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=9ca3af)](https://github.com/anuraghazra/github-readme-stats) |
+| 🔭 **Currently:** Mastering the MERN Stack | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedhinee&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=9ca3af)](https://github.com/anuraghazra/github-readme-stats) |
+| 🌱 **Learning:** AI Model Deployment & Cloud | ![Trophies](https://github-profile-trophy.vercel.app/?username=Vedhinee&theme=radical&no-bg=true&margin-w=15&column=3) |
+
 </div>
 
+---
 
-## Something about me
-- 🔭 I’m currently working on <strong>Full Stack/ Web Development</strong>
-- 🌱 I’m currently learning <strong>ML/AI, MERN Stack</strong>
-- 👯 I’m looking to collaborate on <strong>Full Stack, and Web development projects</strong>
-- 🤔 I’m looking for help with <strong>ML/AL, MERN Stack</strong>
-- 💬 Ask me about <strong>Random Things</strong>
+### 🛠️ The Tech Ecosystem
+I don't just use tools; I build with a purpose. Here is my current stack:
 
+<p align="left">
+  <b>Frontend Architecture:</b><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js" /></a>
+</p>
 
-## 🛠️ Tools I've Used
+<p align="left">
+  <b>Backend & Database:</b><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,php" /></a>
+</p>
 
+<p align="left">
+  <b>Core Programming & Tools:</b><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,c,linux,vscode,idea" /></a>
+</p>
+
+---
+
+### 🧩 My Contributions
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>
-    <img src='https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667' alt='Visual Studio Code' width='50' height='50'/>
-    <img src="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580e1f49cc490c1b28c896b264e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" alt="C" width="50" height="50"/>
-    <img src="https://camo.githubusercontent.com/cd7e24b6d077658f419aaa173b20cde5cadb5fe3ed659fb0848b95e4037a46b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" alt="C++" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
-    <img src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="HTML5" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-    <img src='https://camo.githubusercontent.com/b2ddff690e2f9a813be2162d704aace70a00e5014e52b500481acec796829734/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2d776f72646d61726b2e737667' alt='Bootstrap' width='50' height='50'/>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='JavaScript' width='50' height='50'/>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' alt='React' width='50' height='50'/>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='Node.js' width='50' height='50'/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt='MongoDb' width='50' height='50'/>
-    <img src='https://camo.githubusercontent.com/f91287c9aac55623bc37ceb651ac35b7efb56e422019a3bb59328328a09edf9f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667' alt='Linux' width='50' height='50'/>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg' alt="SQL" width='50' height='50'/>
-    <img src='https://camo.githubusercontent.com/92a977256f3f2b4ef99e6684c1d88f1ac0394ed909893e5e56cb3539a31f2590/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667' alt="PHP" width='50' height='50'/>
+  <img src="https://github-user-contribution-graph-snake.vercel.app/api?github_user=Vedhinee&color_snake=%237C3AED&color_dots=%23161b22,%232d333b,%2340c463,%2330a14e,%23216e39" width="100%" alt="Contribution Snake" />
 </div>
 
-## 📊 My GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedhinee&show_icons=true&theme=radical)
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedhinee&layout=compact&theme=radical)
+### 🤝 Let's Synchronize
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedhineenm"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.kaggle.com/vedhinee"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/vedhinee_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
+</p>
 
+<details>
+<summary align="center"><b>Click for a surprise 🐧</b></summary>
+<div align="center">
+  <br>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWkxcnF4enI3bjFxOXdjZWJmZTR1c29zOTJsaGs2anE5aTAyamx2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif" width="200" />
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+</div>
+</details>
 
-## 💼 Connect with Me
-- [LinkedIn](www.linkedin.com/in/vedhineenm)
-- [Instagram](https://www.instagram.com/vedhinee_/)
-- [Kaggle](https://www.kaggle.com/vedhinee)
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=footer" width="100%"/>
+</p>

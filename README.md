@@ -11,14 +11,14 @@
 | :--- | :--- |
 | 🎓 **Education:** B.Tech CS (Big Data) @ SRM | [![Stats](https://github-readme-stats.vercel.app/api?username=Vedhinee&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=9ca3af)](https://github.com/anuraghazra/github-readme-stats) |
 | 🔭 **Currently:** Mastering the MERN Stack | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedhinee&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=9ca3af)](https://github.com/anuraghazra/github-readme-stats) |
-| 🌱 **Learning:** AI Model Deployment & Cloud | ![Trophies](https://github-profile-trophy.vercel.app/?username=Vedhinee&theme=radical&no-bg=true&margin-w=15&column=3) |
+| 🌱 **Learning:** AI Model Deployment & Cloud | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vedhinee&theme=transparent&hide_border=true&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED)](https://git.io/streak-stats) |
 
 </div>
 
 ---
 
 ### 🛠️ The Tech Ecosystem
-I don't just use tools; I build with a purpose. Here is my current stack:
+I don't just use tools; I build with a purpose.
 
 <p align="left">
   <b>Frontend Architecture:</b><br>
@@ -37,9 +37,11 @@ I don't just use tools; I build with a purpose. Here is my current stack:
 
 ---
 
-### 🧩 My Contributions
+### 📉 Activity Metrics
+*Replacing the unstable snake with a professional data-driven activity graph — perfect for a Big Data student.*
+
 <div align="center">
-  <img src="https://github-user-contribution-graph-snake.vercel.app/api?github_user=Vedhinee&color_snake=%237C3AED&color_dots=%23161b22,%232d333b,%2340c463,%2330a14e,%23216e39" width="100%" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedhinee&theme=react-dark&hide_border=true&area=true&color=7C3AED" width="100%" alt="Activity Graph" />
 </div>
 
 ---

@@ -10,7 +10,7 @@
 | 🚀 **Profile Overview** | 📈 **GitHub Insights** |
 | :--- | :--- |
 | 🎓 **Education:** B.Tech CS (Big Data) @ SRM | [![Stats](https://github-readme-stats.vercel.app/api?username=Vedhinee&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=9ca3af)](https://github.com/anuraghazra/github-readme-stats) |
-| 🔭 **Currently:** Mastering the MERN Stack | [https://vedhineenm.netlify.app/](https://github.com/anuraghazra/github-readme-stats) |
+| 🔭 **Currently:** Mastering the MERN Stack | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedhinee&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=9ca3af)](https://vedhineenm.netlify.app/) |
 | 🌱 **Learning:** AI Model Deployment & Cloud | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vedhinee&theme=transparent&hide_border=true&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED)](https://github.com/konpa/github-readme-streak-stats) |
 
 </div>
